@@ -2,7 +2,7 @@
 
 Web client for **Smart Campus**, my Licence final-year project (PFE). It's a campus management portal where administrators, teachers and students manage academic life in one place: schedules, assignments, marks, administrative documents and reclamations (complaints/requests).
 
-The backend repository is not published yet. When it is, it will be linked here.
+The backend lives in [PFE-SmartCampusApi-SpringBoot](https://github.com/KarimElOuahabi/PFE-SmartCampusApi-SpringBoot).
 
 ## Features
 
@@ -33,7 +33,7 @@ src/
 
 ## Running locally
 
-Requirements: Node.js 18+ and the Smart Campus backend running on `http://localhost:8080`.
+Requirements: Node.js 18+ and the [Smart Campus backend](https://github.com/KarimElOuahabi/PFE-SmartCampusApi-SpringBoot) running on `http://localhost:8080`.
 
 ```bash
 npm install
